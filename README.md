@@ -29,6 +29,13 @@ D:/Programming/Programming/express
 │       └── product.services.js
 └── server.js
 
+<<<<<<< HEAD
+=======
+
+                                                                                                                                                                                      
+
+## Komponen utama
+>>>>>>> b4ad70932c99275af796cb10a37c651a6127feb2
 
 
 ## Komponen utama
