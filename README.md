@@ -5,7 +5,7 @@ Project ini meng-implementasikan Clean Architecture menggunakan Express.js, Expr
 
 ## Struktur Proyek
 
-D:\\folder\Programming\express
+D:\Programming\Programming\express
 ├── package-lock.json
 ├── package.json
 ├── README.md
