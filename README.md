@@ -5,30 +5,33 @@ Project ini meng-implementasikan Clean Architecture menggunakan Express.js, Expr
 
 ## Struktur Proyek
 
-`D:\Programming\Programming\express
-├── package-lock.json                                                                                                                                                                                             
-├── package.json                                                                                                                                                                                                   
-├── README.md                                                                                                                                                                                             
-├── src                                                                                                                                                                                             
-├── app.js                                                                                                                                                                                             
-├── common                                                                                                                                                                                             
-|  ├── middleware                                                                                                                                                                                             
-|  └── utils                                                                                                                                                                                             
-├── config                                                                                                                                                                                             
-|  └── config.js                                                                                                                                                                                             
-├── database                                                                                                                                                                                             
-|  └── database.js                                                                                                                                                                                             
-├── product                                                                                                                                                                                             
-|  ├── controllers                                                                                                                                                                                             
-|  |  └── product.controller.js                                                                                                                                                                                     
-|  ├── dto                                                                                                                                                                                                         
-|  |  └── product.dto.js                                                                                                                                                                                            
-|  ├── model                                                                                                                                                                                                      
-|  |  └── product.model.js                                                                                                                                                                                          
-|  ├── product.module.js                                                                                                                                                                                            
-|  └── services                                                                                                                                                                                                   
-|     └── product.services.js                                                                                                                                                                                       
-└── server.js`                                                                                                                                                                                             
+D:\Programming\Programming\express
+├── package-lock.json
+├── package.json
+├── README.md
+├── src
+├── app.js
+├── common
+|  ├── middleware
+|  └── utils
+├── config
+|  └── config.js
+├── database
+|  └── database.js
+├── product
+|  ├── controllers
+|  |  └── product.controller.js
+|  ├── dto
+|  |  └── product.dto.js
+|  ├── model
+|  |  └── product.model.js
+|  ├── product.module.js
+|  └── services
+|     └── product.services.js
+└── server.js
+
+
+                                                                                                                                                                                      
 
 ## Komponen utama
 
