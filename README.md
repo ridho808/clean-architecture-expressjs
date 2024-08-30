@@ -1,37 +1,37 @@
-
 # Implementasi Clean Architecture dengan Express.js
 
 Project ini meng-implementasikan Clean Architecture menggunakan Express.js, Express Validator, dan Sequelize. sebagai aplikasi backend
 
 ## Struktur Proyek
 
-D:\Programming\Programming\express
+D:/Programming/Programming/express
 ├── package-lock.json
 ├── package.json
 ├── README.md
 ├── src
 ├── app.js
 ├── common
-|  ├── middleware
-|  └── utils
+│   ├── middleware
+│   └── utils
 ├── config
-|  └── config.js
+│   └── config.js
 ├── database
-|  └── database.js
+│   └── database.js
 ├── product
-|  ├── controllers
-|  |  └── product.controller.js
-|  ├── dto
-|  |  └── product.dto.js
-|  ├── model
-|  |  └── product.model.js
-|  ├── product.module.js
-|  └── services
-|     └── product.services.js
+│   ├── controllers
+│   │   └── product.controller.js
+│   ├── dto
+│   │   └── product.dto.js
+│   ├── model
+│   │   └── product.model.js
+│   ├── product.module.js
+│   └── services
+│       └── product.services.js
 └── server.js
 
-## Komponen utama
 
+
+## Komponen utama
 
 1. **Express.js**: Framework web untuk Node.js
 2. **Express Validator**: Middleware untuk validasi input
@@ -54,7 +54,6 @@ D:\Programming\Programming\express
    - `src/app.js`: Konfigurasi Express.js
    - `src/database/database.js`: Konfigurasi Sequelize
    - `src/config/config.js`: Konfigurasi aplikasi
-
 
 ## Komponen Utama
 
